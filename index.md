@@ -36,13 +36,13 @@ color:#F93;}
 
 <body>
    <div class="one"><a href="#">补习班中的-小清华</a></div>
-</hr>
+<hr/>
 <div class="ie"><p>教学环境优异</p>
  <img src="cram.jpg"/>
  <img src="cram2.jpg"/>
  <img src="cram3.jpg"/>
  <img src="cram4.jpg"/>
 </div>
-</hr>
+<hr/>
 </body>
 </html>
