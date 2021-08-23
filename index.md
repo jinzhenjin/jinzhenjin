@@ -5,9 +5,13 @@
   <meta name="author" content="" />
   <meta name="keywords" content="" />
   <meta name="description" content="" />
+    <style>
+.one{color:red;}
+  </style>
  </head>
 
  <body>
+   <p class="one">jinzhen</p>
  </body>
 </html>
 
