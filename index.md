@@ -6,18 +6,24 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
    <style spry:test="css">
-.one a{font-size:25px;
-color:#000;
-    float:left;}
-.one a:hover{font-size:30px;
-background-color:#999;
+    
+.one a
+{font-size:25px;
+background-color:#000;
+color:#FFF;
+float:left;}
+    
+.one a:hover
+{font-size:26px;
 color:#F93;}
+    
+    
   </style>
  </head>
 
- <body>
-   <div class="one"><a href="#">人称-{补习班中的小清华}</a></div>
+<body>
+   <div class="one"><a href="#">补习班中的-小清华</a></div>
   <img src="8.jpg"/>
- </body>
+</body>
 </html>
 
