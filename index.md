@@ -11,7 +11,7 @@
  </head>
 
  <body>
-   <p class="one">我们开始吧</p>
+   <p class="one">人称-{补习班中的小清华}</p>
   <img src="8.jpg"/>
  </body>
 </html>
