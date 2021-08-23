@@ -34,7 +34,6 @@ color:#F93;}
    <div class="one"><a href="#">补习班中的-小清华</a></div>
 <div class="ie">
  <img src="cram.jpg"/>
- <img src="cram1.jpg"/>
  <img src="cram2.jpg"/>
  <img src="cram3.jpg"/>
  <img src="cram4.jpg"/>
