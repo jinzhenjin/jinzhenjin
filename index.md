@@ -33,7 +33,9 @@ color:#F93;}
 .two ul{
 	  font-size:23px; 
 	   }
-.two ul li{font-size:15px;}
+.two ul li{font-size:15px;
+	   list-style-type:none;
+	   }
     
   </style>
  </head>
@@ -42,10 +44,10 @@ color:#F93;}
    <div class="one"><a href="#">补习班中的-小清华</a></div>
 <div class="two">
 	<ul>老师介绍
-	        <li style="list-style-type:none;>英语</li>
-		<li style="list-style-type:none;>数学</li>
-		<li style="list-style-type:none;>语文</li>
-		<li style="list-style-type:none;>负责人</li>
+	        <li>英语</li>
+		<li>数学</li>
+		<li>语文</li>
+		<li>负责人</li>
 	</ul>
 	
 </div>
