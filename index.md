@@ -34,10 +34,10 @@ color:#F93;}
 <body>
    <div class="one"><a href="#">补习班中的-小清华</a></div>
 <div class="ie">
- <img src="cram.jpg"/>
- <img src="cram2.jpg"/>
- <img src="cram3.jpg"/>
- <img src="cram4.jpg"/>
+ <img src="cram.jpg"/>数学授课中
+ <img src="cram2.jpg"/>英语授课中
+ <img src="cram3.jpg"/>语文授课中
+ <img src="cram4.jpg"/>考试中
 </div>
 </body>
 </html>
