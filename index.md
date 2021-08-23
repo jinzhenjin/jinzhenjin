@@ -14,7 +14,7 @@
 {font-size:25px;
 background-color:#000;
 color:#FFF;
-float:left;
+
 margin-left:10px;}
     
 .one a:hover
@@ -24,6 +24,7 @@ color:#F93;}
 .ie img{
 	width:300px;
 	height:250px;
+	   float:left;
 	 }
     
     
