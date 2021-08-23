@@ -23,7 +23,7 @@ color:#F93;}
 
 .ie img{
 	width:300px;
-	height:30px;
+	height:300px;
 	 }
     
     
