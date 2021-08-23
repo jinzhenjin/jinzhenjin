@@ -23,8 +23,8 @@ color:#F93;}
 
 .ie img{
 	width:300px;
-	height:600px;
-	  float:left;}
+	height:30px;
+	 }
     
     
   </style>
