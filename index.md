@@ -22,8 +22,8 @@ margin-left:10px;}
 color:#F93;}
 
 .ie img{
-	width:30px;
-	height:60px;
+	width:300px;
+	height:600px;
 	   float:left;}
     
     
