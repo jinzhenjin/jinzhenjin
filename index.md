@@ -14,7 +14,8 @@
 {font-size:25px;
 background-color:#000;
 color:#FFF;
-float:left;}
+float:left;
+margin-left:10px;}
     
 .one a:hover
 {font-size:26px;
