@@ -11,8 +11,7 @@
  </head>
 
  <body>
-   <p class="one">jinzhen</p>
-  <img src="file:///C|/Users/Jingle/Pictures/河北金振/1 (2).jpg">
+   <p class="one">我们开始吧</p>
  </body>
 </html>
 
