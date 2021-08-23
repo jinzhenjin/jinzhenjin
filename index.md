@@ -33,7 +33,7 @@ color:#F93;}
 .two ul{
 	  font-size:23px; 
 	   }
-.two ul li{font-size:15px;
+ li{font-size:15px;
 	   list-style-type:none;
 	   }
     
