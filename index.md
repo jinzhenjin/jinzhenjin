@@ -26,18 +26,21 @@ color:#F93;}
 	height:250px;
 	   float:left;
 	 }
-    
+ .ie p{
+	
+	  font-size:25px;
+	   }   
     
   </style>
  </head>
 
 <body>
    <div class="one"><a href="#">补习班中的-小清华</a></div>
-<div class="ie">
- <img src="cram.jpg"/><p>数学授课中
- <img src="cram2.jpg"/><p>英语授课中
- <img src="cram3.jpg"/><p>语文授课中
- <img src="cram4.jpg"/><p>考试中
+<div class="ie"><p>教学环境优异</p>
+ <img src="cram.jpg"/>
+ <img src="cram2.jpg"/>
+ <img src="cram3.jpg"/>
+ <img src="cram4.jpg"/>
 </div>
 </body>
 </html>
