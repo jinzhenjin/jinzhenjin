@@ -5,14 +5,17 @@
   <meta name="author" content="" />
   <meta name="keywords" content="" />
   <meta name="description" content="" />
-    <style>
-.one{font-size:25px;}
- .one:hover{color:#039;}
+   <style spry:test="css">
+.one a{font-size:25px;
+color:#000;}
+.one a:hover{font-size:30px;
+background-color:#999;
+color:#F93;}
   </style>
  </head>
 
  <body>
-   <p class="one">人称-{补习班中的小清华}</p>
+   <div class="one"><a href="#">人称-{补习班中的小清华}</a></div>
   <img src="8.jpg"/>
  </body>
 </html>
