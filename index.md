@@ -20,6 +20,10 @@ margin-left:10px;}
 .one a:hover
 {font-size:26px;
 color:#F93;}
+
+.ie img{
+	width:30px;
+	height:60px;}
     
     
   </style>
@@ -27,7 +31,7 @@ color:#F93;}
 
 <body>
    <div class="one"><a href="#">补习班中的-小清华</a></div>
-<div>
+<div class="ie">
  <img src="cram.jpg"/>
  <img src="cram1.jpg"/>
  <img src="cram2.jpg"/>
