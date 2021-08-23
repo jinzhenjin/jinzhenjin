@@ -7,7 +7,8 @@
   <meta name="description" content="" />
    <style spry:test="css">
 .one a{font-size:25px;
-color:#000;}
+color:#000;
+    float:left;}
 .one a:hover{font-size:30px;
 background-color:#999;
 color:#F93;}
