@@ -5,6 +5,9 @@
   <meta name="author" content="" />
   <meta name="keywords" content="" />
   <meta name="description" content="" />
+    <script type="application/javascript"/>
+   alert("欢迎来到sn小清华补习班官方网站")
+</script>
    <style spry:test="css">
     
 .one a
