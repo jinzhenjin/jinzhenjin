@@ -36,7 +36,17 @@ color:#F93;}
 
 <body>
    <div class="one"><a href="#">补习班中的-小清华</a></div>
-<hr/>
+<div>
+	<ul>老师介绍
+	        <li>英语</li>
+		<li>数学</li>
+		<li>语文</li>
+		<li>负责人</li>
+	</ul>
+	
+</div>
+
+	<hr/>
 <div class="ie"><p>教学环境优异</p>
  <img src="cram.jpg"/>
  <img src="cram2.jpg"/>
