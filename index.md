@@ -26,7 +26,10 @@ color:#F93;}
 
 <body>
    <div class="one"><a href="#">补习班中的-小清华</a></div>
-  <img src="8.jpg"/>
+<div>
+ <img src="cram.jpg"/>
+ 
+</div>
 </body>
 </html>
 
