@@ -7,6 +7,7 @@
   <meta name="description" content="" />
     <style>
 .one{font-size:25px;}
+ .one:hover{color:#039;}
   </style>
  </head>
 
