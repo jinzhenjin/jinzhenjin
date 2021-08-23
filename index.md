@@ -6,7 +6,7 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
     <script type="application/javascript"/>
-   alert("欢迎来到sn小清华补习班官方网站")
+   alert("欢迎来到JinZhen小清华补习班官方网站 领导请坐")
 </script>
    <style spry:test="css">
     
