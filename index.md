@@ -12,6 +12,7 @@
 
  <body>
    <p class="one">我们开始吧</p>
+  <img src="8.jpg"/>
  </body>
 </html>
 
