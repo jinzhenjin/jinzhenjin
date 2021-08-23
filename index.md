@@ -6,7 +6,7 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
     <style>
-.one{color:red;}
+.one{font-size:25px;}
   </style>
  </head>
 
