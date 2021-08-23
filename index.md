@@ -24,7 +24,7 @@ color:#F93;}
 .ie img{
 	width:300px;
 	height:600px;
-	   float:left;}
+	  float:left;}
     
     
   </style>
