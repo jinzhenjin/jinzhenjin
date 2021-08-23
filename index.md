@@ -31,7 +31,7 @@ color:#F93;}
 	  font-size:25px;
 	   } 
 .two ul{
-	  font-size:20px; 
+	  font-size:23px; 
 	   }
     
   </style>
