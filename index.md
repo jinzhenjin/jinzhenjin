@@ -29,14 +29,17 @@ color:#F93;}
  .ie p{
 	
 	  font-size:25px;
-	   }   
+	   } 
+.two ul{
+	  font-size:20px; 
+	   }
     
   </style>
  </head>
 
 <body>
    <div class="one"><a href="#">补习班中的-小清华</a></div>
-<div>
+<div class="two">
 	<ul>老师介绍
 	        <li>英语</li>
 		<li>数学</li>
