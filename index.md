@@ -13,7 +13,7 @@
     from{color:yellow;}	 
     to{color:blude;}
 }   
-p {
+h3 {
     animation: myfirst 2s infinite;	   
 	   }
     
@@ -37,7 +37,7 @@ p {
  </head>
 
 <body>
-   <p>补习班中的-小清华</p>
+   <h3>补习班中的-小清华</h3>
 <div class="two">
 	<ul>老师介绍
 	        <li>英语</li>
