@@ -14,7 +14,7 @@
     to{color:blude;}
 }   
 h3 {
-    animation: myfirst 2s infinite;	   
+    animation: myfirst 4s infinite;	   
 	   }
     
 .ie img{
