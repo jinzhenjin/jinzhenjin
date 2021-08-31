@@ -10,17 +10,8 @@
 </script>
    <style spry:test="css">
     
-.one a
-{font-size:25px;
-background-color:#000;
-color:#FFF;
 
-margin-left:10px;}
     
-.one a:hover
-{font-size:26px;
-color:#F93;}
-
 .ie img{
 	width:300px;
 	height:250px;
