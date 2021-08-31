@@ -6,7 +6,7 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
     <script type="application/javascript"/>
-   alert("欢迎来到JinZhen小清华补习班官方网站 领导请坐")
+   alert("小清华补习班欢迎您的到来！")
 </script>
    <style spry:test="css">
 @keyframes myfirst{
@@ -37,7 +37,7 @@ h3 {
  </head>
 
 <body>
-   <h3>补习班中的-小清华</h3>
+   <h2>补习班中的-小清华</h2>
 <div class="two">
 	<ul>老师介绍
 	        <li>英语</li>
