@@ -9,8 +9,13 @@
    alert("欢迎来到JinZhen小清华补习班官方网站 领导请坐")
 </script>
    <style spry:test="css">
-    
-
+@keyframes myfirst{
+    from{color:yellow;}	 
+    to{color:blude;}
+}   
+p {
+    animation: myfirst 2s infinite;	   
+	   }
     
 .ie img{
 	width:300px;
@@ -32,7 +37,7 @@
  </head>
 
 <body>
-   <div class="one"><a href="#">补习班中的-小清华</a></div>
+   <p>补习班中的-小清华</p>
 <div class="two">
 	<ul>老师介绍
 	        <li>英语</li>
