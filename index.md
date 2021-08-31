@@ -13,7 +13,7 @@
     from{color:yellow;}	 
     to{color:blude;}
 }   
-h3 {
+h2 {
     animation: myfirst 4s infinite;	   
 	   }
     
