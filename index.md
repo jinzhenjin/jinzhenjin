@@ -37,7 +37,7 @@ h2 {
  </head>
 
 <body>
-   <h2>补习班中的-小清华</h2>
+   <h2>补习班中的-强者</h2>
 <div class="two">
 	<ul>老师介绍
 	        <li>英语 :</li>
@@ -52,7 +52,7 @@ h2 {
 <div class="ie"><p>教学环境优异</p>
  <img src="cram.jpg"/>
  <img src="cram2.jpg"/>
- <img src="cram3.jpg"/>
+ 
 
 </div>
 <hr/>
