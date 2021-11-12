@@ -50,7 +50,6 @@ h2 {
 
 	<hr/>
 <div class="ie"><p>教学环境优异</p>
- <img src="cram.jpg"/>
  <img src="cram2.jpg"/>
  
 
