@@ -49,7 +49,7 @@ h2 {
 </div>
 
 	<hr/>
-<div class="ie"><p>教学环境优异</p>
+<div class="ie"><p>培训环境介绍</p>
  <img src="cram2.jpg"/>
  <img src="cram5.jpg"/>
  
