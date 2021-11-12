@@ -38,28 +38,29 @@ h2 {
 
 <body>
    <h2>补习班中的-强者</h2>
-<div class="two">
-	<ul>老师介绍
+      <div class="two">
+	      <ul>老师介绍
 	        <li>英语 :</li>
-		<li>数学 :</li>
-		<li>语文 :</li>
-		<li>负责人 :</li>
-	</ul>
-<h>
-	培训内容：2-6年级:数学/英语/语文 即将学的知识/寒假作业。
+		     <li>数学 :</li>
+		      <li>语文 :</li>
+		       <li>负责人 :</li>
+	                </ul>
+     <hr/>
+    <h>
+        培训内容：2-6年级:数学/英语/语文 即将学的知识/寒假作业。
                  七年级：数学/英语/自选一门科目。
-	</h>
+        </h>
  <hr/>
-<h> 资费情况:</h>
-</div>
+    <h>资费情况:</h>
+                             </div>
 
-	<hr/>
-<div class="ie"><p>培训环境介绍</p>
- <img src="cram2.jpg"/>
- <img src="cram5.jpg"/>
- 
-
-</div>
+<hr/>
+    <div class="ie"><p>培训环境介绍</p>
+     <img src="cram2.jpg"/>
+     <img src="cram5.jpg"/>
+     
+    
+    </div>
 
 </body>
 </html>
