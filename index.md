@@ -51,6 +51,7 @@ h2 {
 	<hr/>
 <div class="ie"><p>教学环境优异</p>
  <img src="cram2.jpg"/>
+ <img src="cram5.jpg"/>
  
 
 </div>
