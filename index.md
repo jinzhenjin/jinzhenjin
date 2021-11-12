@@ -47,8 +47,8 @@ h2 {
 	                </ul>
      <hr/>
     <h5>
-        培训内容：2-6年级:数学/英语/语文 即将学的知识/寒假作业。
-               <br/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   七年级：数学/英语/自选一门科目。
+        培训内容：2-6年级：数学/英语/语文 即将学的知识/寒假作业。
+               <br/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;七年级：数学/英语/自选一门科目。
         </h5>
  <hr/>
     <h5>资费情况:</h5>
