@@ -63,10 +63,9 @@ h2 {
     </div>
  <hr/>
  
- <h1><font color="#33CCCC"><a>点击我占位置</a></font></h1>
- <h5>占位子之前先看下边操作教程</h5>
+
  <img src="cram7.jpg"/>
  <img src="cram6.jpg"/>
- 
+  <h1><font color="#33CCCC"><a>长按二维码扫一扫占位置</a></font></h1>
 </body>
 </html>
