@@ -63,7 +63,7 @@ h2 {
     </div>
  <hr/>
  
- <h2><font color="#33CCCC"><a>点击我占位置</a></font></h2>
+ <h1><font color="#33CCCC"><a>点击我占位置</a></font></h1>
  <h5>占位子之前先看下边操作教程</h5>
  <img src="cram7.jpg"/>
  <img src="cram6.jpg"/>
