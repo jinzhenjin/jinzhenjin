@@ -47,7 +47,7 @@ h2 {
 	                </ul>
      <hr/>
     <h5>
-        培训内容：2-6年级：数学/英语/语文 即将学的知识/寒假作业。
+        培训内容：1-6年级：数学/英语/语文 即将学的知识/寒假作业。
                <br/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;七年级：数学/英语/自选一门科目。<font color="#9966FF">每两周组织一次考试!</font>
         </h5>
  <hr/>
