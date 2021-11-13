@@ -63,7 +63,7 @@ h2 {
     </div>
  <hr/>
  
-
+ <p>预报名占位置先看下方报名教程</p>
  <img src="cram7.jpg"/>
  <img src="cram6.jpg"/>
   <h1><font color="#33CCCC"><a>长按二维码扫一扫占位置</a></font></h1>
