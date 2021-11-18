@@ -50,10 +50,14 @@ h2 {
         培训内容：1-6年级：数学/英语/语文 即将学的知识/寒假作业。
                <br/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;七年级：数学/英语/自选一门科目。<font color="#9966FF">每两周组织一次考试!</font>
         </h5>
-<h5>中考体育成绩24分很能拉开成绩！报名中考体育技能可以报名</h5>
+<h5><font color="#9966FF">孩子中考体育成绩</font>分很能拉开分数！中考体育技能可以报名</h5>
  <hr/>
     <h5>资费情况:</h5>
-                             </div>
+                             
+	
+	
+	
+</div>
 
 <hr/>
     <div class="ie"><p>培训环境介绍</p>
