@@ -61,16 +61,10 @@ h2 {
 
 <hr/>
     <div class="ie"><p>培训环境介绍</p>
-     <img src="cram2.jpg"/>
-     <img src="cram5.jpg"/>
-     
+   
     
     </div>
  <hr/>
- 
- <h1>预报名先看下方报名教程</h1>
- <img src="cram7.jpg"/>
- <img src="cram6.jpg"/>
-  <h1><font color="#0F0">长按二维码扫一扫占位置</font></h1>
+
 </body>
 </html>
