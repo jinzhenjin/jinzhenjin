@@ -20,21 +20,16 @@ h2 {
 .ie img{
 	width:300px;
 	height:250px;
-	   
-.two ul{
-	  font-size:23px; 
-	   }
- li{font-size:15px;
-	   list-style-type:none;
-	   }
+}
+
     
   </style>
  </head>
 
 <body>
    <h2>长按二维码加微信</h2>
- <img src="file:///C|/Users/Jingle/Pictures/河北金振/vx.jpg">
  <img src="file:///C|/Users/Jingle/Pictures/河北金振/cram2.jpg">
+
 
    <h3>负责人微信：xdy88138</h3>
 
@@ -42,3 +37,4 @@ h2 {
 
 </body>
 </html>
+
