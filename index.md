@@ -33,10 +33,12 @@ h2 {
 
 <body>
    <h2>长按二维码加微信</h2>
- 
-	<img src="jinzhenjin/vx.jpg">
+ <img src="file:///C|/Users/Jingle/Pictures/河北金振/vx.jpg">
+ <img src="file:///C|/Users/Jingle/Pictures/河北金振/cram2.jpg">
 
    <h3>负责人微信：xdy88138</h3>
+
+
 
 </body>
 </html>
