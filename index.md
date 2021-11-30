@@ -37,34 +37,9 @@ h2 {
  </head>
 
 <body>
-   <h2>小豆芽补习班</h2>
-      <div class="two">
-	      <ul>老师介绍
-	        <li>英语 :</li>
-		     <li>数学 :</li>
-		      <li>语文 :</li>
-		       <li>负责人 :</li>
-	                </ul>
-     <hr/>
-    <h5>
-        培训内容：1-6年级：数学/英语/语文 即将学的知识/寒假作业。
-               <br/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;七年级：数学/英语/自选一门科目。<font color="#9966FF">每两周组织一次考试!</font>
-        </h5>
-<h5><font color="#9966FF">孩子中考体育成绩</font>分很能拉开分数！中考体育技能可以报名</h5>
- <hr/>
-    <h5>资费情况:</h5>
-                             
-	
-	
-	
-</div>
-
-<hr/>
-    <div class="ie"><p>培训环境介绍</p>
-   
-    
-    </div>
- <hr/>
+   <h2>长按二维码加微信</h2>
+   <img src="file:///C|/Users/Jingle/Pictures/河北金振/小.jpg">
+   <h3>负责人微信：xdy88138</h3>
 
 </body>
 </html>
