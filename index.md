@@ -28,7 +28,7 @@ img{
 <body>
    <h2>长按二维码加微信</h2>
 
-<img src="jinzhenjin/jinzhenjin/jin.jpg">
+<img src="file:///C|/Users/Jingle/Pictures/河北金振/tupian.jpg">
 
    <h3>负责人微信：xdy88138</h3>
 
