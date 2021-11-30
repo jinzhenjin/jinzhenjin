@@ -23,7 +23,7 @@ h2 {
 
 <body>
    <h2>长按二维码加微信</h2>
-   <img src="jinzhenjin/weixin.jpg"/>
+   <img src="jinzhenjin/7.png"/>
 
    <h3>负责人微信：xdy88138</h3>
 
